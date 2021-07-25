@@ -19,7 +19,7 @@ After you're initial build, you can simply remove the fonts folder if you like a
 |__/|__/\_,_/___/\__/_/_//_/\_, /  \__/_/_/_/_/\__(_)
                            /___/
                            
-PS X:\Dev Work\golang\Projects\FigletSampler> .\FigletSampler.exe -show_no_banner -show_random_font -message "Wasting time!"
+.\FigletSampler.exe -show_no_banner -show_random_font -message "Wasting time!"
 =================================================================================================================
    LOADING : ( 1 ) Wet_Letter
 =================================================================================================================
