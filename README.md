@@ -8,6 +8,7 @@ Nope, still no proper testing but at least I'm now aware of it.
 After you're initial build, you can simply remove the fonts folder if you like as the build hoovers in all the font files and embeds them.
 
 
+```
 .\FigletSampler.exe -show_random_font -message "Wasting time!"
 ================================================================================================================
    LOADING : ( 1 ) Small_Slant
@@ -29,3 +30,4 @@ PS X:\Dev Work\golang\Projects\FigletSampler> .\FigletSampler.exe -show_no_banne
 |(/  \ || |  |)|( `-'  )    | |   | || | |)| \  `-) )    | |   | || \  / | |  `--. (
 (_)   \||_|  (_) `----'     `-'   `-'/(  (_) )\____/     `-'   `-'| |\/| | /( __.'(_)
                                     (__)    (__)                  '-'  '-'(__)
+```
